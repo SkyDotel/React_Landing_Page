@@ -1,7 +1,7 @@
 import React from "react";
 import PropType from "prop-types";
 
-function Card() {
+function Card(props) {
 	return (
 		<div class="card">
 			<img
